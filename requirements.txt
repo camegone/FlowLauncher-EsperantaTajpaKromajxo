@@ -1,2 +1,2 @@
-flowlauncher
+flox-lib
 pyperclip

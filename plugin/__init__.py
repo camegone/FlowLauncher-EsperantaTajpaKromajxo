@@ -1,0 +1,1 @@
+from esperanta_tajpo import EsperantaTajpo

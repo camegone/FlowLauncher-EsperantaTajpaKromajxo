@@ -1,32 +1,32 @@
-## https://www.flowlauncher.com/docs/#/json-rpc-settings
-##$schema: https://www.flowlauncher.com/schemas/settings-template.schema.json
-#
-## TODO: imprement settings page
-#body:
-#  - type: textblock
-#    attributes:
-#      description: Saluton Mondo!
-#  - type: checkbox
-#    attributes:
-#      name: is_convert_x
-#      label: Enable Convert Postfix "x"
-#      description: Convert Postfix "x" (e.g. cx -> ĉ, gx -> ĝ, etc.)
-#      defaultValue: true
-#  - type: checkbox
-#    attributes:
-#      name: is_convert_h
-#      label: Enable Convert Postfix "h"
-#      description: Convert Postfix "h" (e.g. ch -> ĉ, gh -> ĝ, etc.)
-#      defaultValue: true
-#  - type: checkbox
-#    attributes:
-#      name: is_convert_cap
-#      label: Enable Convert Postfix "^"
-#      description: Convert Postfix "^" (e.g. c^ -> ĉ, g^ -> ĝ, etc.)
-#      defaultValue: true
-#  - type: checkbox
-#    attributes:
-#      name: is_convert_w
-#      label: Enable Convert w -> ŭ
-#      description: Convert w -> ŭ
-#      defaultValue: true
+# https://www.flowlauncher.com/docs/#/json-rpc-settings
+#$schema: https://www.flowlauncher.com/schemas/settings-template.schema.json
+
+# TODO: imprement settings page
+body:
+  - type: textblock
+    attributes:
+      description: Saluton Mondo!
+  - type: checkbox
+    attributes:
+      name: is_convert_x
+      label: Enable Convert Postfix "x"
+      description: Convert Postfix "x" (e.g. cx -> ĉ, gx -> ĝ, etc.)
+      defaultValue: true
+  - type: checkbox
+    attributes:
+      name: is_convert_h
+      label: Enable Convert Postfix "h"
+      description: Convert Postfix "h" (e.g. ch -> ĉ, gh -> ĝ, etc.)
+      defaultValue: true
+  - type: checkbox
+    attributes:
+      name: is_convert_cap
+      label: Enable Convert Postfix "^"
+      description: Convert Postfix "^" (e.g. c^ -> ĉ, g^ -> ĝ, etc.)
+      defaultValue: true
+  - type: checkbox
+    attributes:
+      name: is_convert_w
+      label: Enable Convert w -> ŭ
+      description: Convert w -> ŭ
+      defaultValue: true

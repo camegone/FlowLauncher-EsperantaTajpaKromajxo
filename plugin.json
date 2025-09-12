@@ -6,9 +6,9 @@
     "Name": "Esperanta Tajpa Kromaĵo",
     "Description": "A plugin helps you typing in Esperanto.",
     "Author": "camegone",
-    "Version": "0.0.0",
+    "Version": "0.1.0",
     "Language": "python",
-    "Website": "https://foo.bar",
+    "Website": "https://github.com/camegone/FlowLauncher-EsperantaTajpaKromajxo",
     "IcoPath": "Images\\icon.png",
     "ExecuteFileName": "main.py"
 }

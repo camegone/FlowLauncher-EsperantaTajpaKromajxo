@@ -1,0 +1,14 @@
+{
+    "$schema": "https://www.flowlauncher.com/schemas/plugin.schema.json",
+    
+    "ID": "0198f928-7659-742f-8f99-ce7f10145e26",
+    "ActionKeyword": "epo",
+    "Name": "Esperanta Tajpa Kromaĵo",
+    "Description": "A plugin helps you typing in Esperanto.",
+    "Author": "camegone",
+    "Version": "0.0.0",
+    "Language": "python",
+    "Website": "https://foo.bar",
+    "IcoPath": "Images\\icon.png",
+    "ExecuteFileName": "main.py"
+}
